@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# PROAINCE Website
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is created with React and styled with Tailwind css
 
 ## Available Scripts
 
